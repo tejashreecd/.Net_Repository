@@ -1,0 +1,12 @@
+c:\users\dhavalikar_t\documents\visual studio 2015\Projects\DataFirstApproach\EntityClass\bin\Debug\EntityClass.exe.config
+c:\users\dhavalikar_t\documents\visual studio 2015\Projects\DataFirstApproach\EntityClass\bin\Debug\EntityClass.exe
+c:\users\dhavalikar_t\documents\visual studio 2015\Projects\DataFirstApproach\EntityClass\bin\Debug\EntityClass.pdb
+c:\users\dhavalikar_t\documents\visual studio 2015\Projects\DataFirstApproach\EntityClass\bin\Debug\DataFirstApproach.dll
+c:\users\dhavalikar_t\documents\visual studio 2015\Projects\DataFirstApproach\EntityClass\bin\Debug\EntityFramework.dll
+c:\users\dhavalikar_t\documents\visual studio 2015\Projects\DataFirstApproach\EntityClass\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\dhavalikar_t\documents\visual studio 2015\Projects\DataFirstApproach\EntityClass\bin\Debug\DataFirstApproach.pdb
+c:\users\dhavalikar_t\documents\visual studio 2015\Projects\DataFirstApproach\EntityClass\bin\Debug\EntityFramework.xml
+c:\users\dhavalikar_t\documents\visual studio 2015\Projects\DataFirstApproach\EntityClass\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\dhavalikar_t\documents\visual studio 2015\Projects\DataFirstApproach\EntityClass\obj\Debug\EntityClass.csprojResolveAssemblyReference.cache
+c:\users\dhavalikar_t\documents\visual studio 2015\Projects\DataFirstApproach\EntityClass\obj\Debug\EntityClass.exe
+c:\users\dhavalikar_t\documents\visual studio 2015\Projects\DataFirstApproach\EntityClass\obj\Debug\EntityClass.pdb

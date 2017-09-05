@@ -1,0 +1,10 @@
+c:\users\dhavalikar_t\documents\visual studio 2015\Projects\DataFirstApproach\DataFirstApproach\bin\Debug\DataFirstApproach.dll.config
+c:\users\dhavalikar_t\documents\visual studio 2015\Projects\DataFirstApproach\DataFirstApproach\bin\Debug\DataFirstApproach.dll
+c:\users\dhavalikar_t\documents\visual studio 2015\Projects\DataFirstApproach\DataFirstApproach\bin\Debug\DataFirstApproach.pdb
+c:\users\dhavalikar_t\documents\visual studio 2015\Projects\DataFirstApproach\DataFirstApproach\bin\Debug\EntityFramework.dll
+c:\users\dhavalikar_t\documents\visual studio 2015\Projects\DataFirstApproach\DataFirstApproach\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\dhavalikar_t\documents\visual studio 2015\Projects\DataFirstApproach\DataFirstApproach\bin\Debug\EntityFramework.xml
+c:\users\dhavalikar_t\documents\visual studio 2015\Projects\DataFirstApproach\DataFirstApproach\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\dhavalikar_t\documents\visual studio 2015\Projects\DataFirstApproach\DataFirstApproach\obj\Debug\DataFirstApproach.csprojResolveAssemblyReference.cache
+c:\users\dhavalikar_t\documents\visual studio 2015\Projects\DataFirstApproach\DataFirstApproach\obj\Debug\DataFirstApproach.dll
+c:\users\dhavalikar_t\documents\visual studio 2015\Projects\DataFirstApproach\DataFirstApproach\obj\Debug\DataFirstApproach.pdb
