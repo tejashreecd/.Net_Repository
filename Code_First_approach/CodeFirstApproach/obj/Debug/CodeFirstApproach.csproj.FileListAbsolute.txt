@@ -1,0 +1,14 @@
+c:\users\dhavalikar_t\documents\visual studio 2015\Projects\CodeFirstApproach\CodeFirstApproach\bin\Debug\CodeFirstApproach.dll.config
+c:\users\dhavalikar_t\documents\visual studio 2015\Projects\CodeFirstApproach\CodeFirstApproach\bin\Debug\CodeFirstApproach.dll
+c:\users\dhavalikar_t\documents\visual studio 2015\Projects\CodeFirstApproach\CodeFirstApproach\bin\Debug\CodeFirstApproach.pdb
+c:\users\dhavalikar_t\documents\visual studio 2015\Projects\CodeFirstApproach\CodeFirstApproach\bin\Debug\EntityFramework.dll
+c:\users\dhavalikar_t\documents\visual studio 2015\Projects\CodeFirstApproach\CodeFirstApproach\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\dhavalikar_t\documents\visual studio 2015\Projects\CodeFirstApproach\CodeFirstApproach\bin\Debug\EntityFramework.xml
+c:\users\dhavalikar_t\documents\visual studio 2015\Projects\CodeFirstApproach\CodeFirstApproach\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\dhavalikar_t\documents\visual studio 2015\Projects\CodeFirstApproach\CodeFirstApproach\obj\Debug\CodeFirstApproach.csprojResolveAssemblyReference.cache
+c:\users\dhavalikar_t\documents\visual studio 2015\Projects\CodeFirstApproach\CodeFirstApproach\obj\Debug\CodeFirstApproach.dll
+c:\users\dhavalikar_t\documents\visual studio 2015\Projects\CodeFirstApproach\CodeFirstApproach\obj\Debug\CodeFirstApproach.pdb
+c:\users\dhavalikar_t\documents\visual studio 2015\Projects\CodeFirstApproach\CodeFirstApproach\obj\Debug\CodeFirstApproach.Migrations.InitialCreate.resources
+c:\users\dhavalikar_t\documents\visual studio 2015\Projects\CodeFirstApproach\CodeFirstApproach\obj\Debug\CodeFirstApproach.csproj.GenerateResource.Cache
+c:\users\dhavalikar_t\documents\visual studio 2015\Projects\CodeFirstApproach\CodeFirstApproach\obj\Debug\CodeFirstApproach.Migrations.ADDURL.resources
+c:\users\dhavalikar_t\documents\visual studio 2015\Projects\CodeFirstApproach\CodeFirstApproach\obj\Debug\CodeFirstApproach.Migrations.AddDept.resources
